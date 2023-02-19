@@ -4,3 +4,7 @@
 
 - Allow users to search, browse, purchase and add items for sale
 - It is an Android/iOS application made using React Native
+
+## WelcomeScreen
+
+![](https://github.com/AndreiBilboreanu/Flipper/blob/main/demo/start_page.png)
