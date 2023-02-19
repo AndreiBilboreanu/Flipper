@@ -1,9 +1,7 @@
-import { StatusBar } from "expo-status-bar";
-import { StyleSheet, SafeAreaView, Button } from "react-native";
+import { StyleSheet} from "react-native";
 import WelcomeScreen from "./app/screens/WelcomeScreen";
 
 export default function App() {
-  console.log("App executed");
   return <WelcomeScreen />;
 }
 
